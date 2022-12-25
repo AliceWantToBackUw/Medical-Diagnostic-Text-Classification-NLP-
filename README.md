@@ -16,4 +16,4 @@ src：包含样本数据文件gastic.xlsx和停用词stop_words.txt文件
 
 gastic.xlsx预览（**共250条数据，5分类**）
 
-![image-20221225125034624](C:\Users\冷月\AppData\Roaming\Typora\typora-user-images\image-20221225125034624.png)
+![image-20221225125034624](/src/gastic预览.png)
