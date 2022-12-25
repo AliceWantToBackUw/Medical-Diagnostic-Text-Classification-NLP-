@@ -12,7 +12,7 @@
 
 ## 2、资源目录
 
-**src：**包含样本数据文件gastic.xlsx和停用词stop_words.txt文件
+src：包含样本数据文件gastic.xlsx和停用词stop_words.txt文件
 
 gastic.xlsx预览（**共250条数据，5分类**）
 
