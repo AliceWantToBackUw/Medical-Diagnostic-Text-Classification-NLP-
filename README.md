@@ -1,4 +1,5 @@
 # 传统机器学习和深度学习方法解决医疗诊断文本分类问题
+> * [对应的CSDN文章](https://blog.csdn.net/lengyue29/article/details/128454191)
 
 ## 1、介绍
 
