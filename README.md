@@ -1,5 +1,6 @@
 # 传统机器学习和深度学习方法解决医疗诊断文本分类问题
-> * [对应的CSDN文章](https://blog.csdn.net/lengyue29/article/details/128454191)
+> * [对应的CSDN文章](https://blog.csdn.net/lengyue29/article/details/128791630)
+> * [对应个人博客网站文章](https://alicewanttobackuw.github.io/2023/01/29/%E5%8C%BB%E7%96%97%E8%AF%8A%E6%96%AD%E6%96%87%E6%9C%AC%E5%A4%9A%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98%EF%BC%88NLP)%EF%BC%88%E5%90%88%E5%B7%A5%E5%A4%A7%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%89/)
 
 ## 1、介绍
 
